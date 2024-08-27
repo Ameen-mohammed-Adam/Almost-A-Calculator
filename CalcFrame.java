@@ -46,7 +46,6 @@ public class CalcFrame extends JFrame implements ActionListener {
         Buttons btnClear = new Buttons("Clear");
         Buttons btnEquals = new Buttons("=");
         Buttons btnDel = new Buttons("Del");
-        Buttons btnHello = new Buttons("Del");
 
         // ================================= JTextField ==================================
         textField.setBounds(100,100, 300, 300);
